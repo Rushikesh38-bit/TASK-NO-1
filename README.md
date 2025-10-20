@@ -65,6 +65,13 @@ Step 4: Analyze the Results
    IP addresses of devices,
    Open ports,
    Services associated with each port
+   
+
+   Single Port Scan:
+
+Windows:
+
+  ![image alt](https://github.com/Rushikesh38-bit/TASK-NO-1/blob/main/Image%202025-10-20(4).jpg)
 
 
 Important Notes:
@@ -75,12 +82,6 @@ Important Notes:
    
    3] Close unnecessary open ports to improve security.
 
-
-Single Port Scan:
-
-Windows:
-
-  ![image alt](https://github.com/Rushikesh38-bit/TASK-NO-1/blob/main/Image%202025-10-20(4).jpg)
    
 
 
