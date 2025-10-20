@@ -26,7 +26,7 @@ Step 2: Perform a Basic TCP SYN Scan with Nmap
    Run the following command, replacing <your_network_range> with your network range:
 
   
-                 nmap -sS 192.168.1.0/24
+         nmap -sS 192.168.1.0/24
 
         
   This performs a stealth scan to identify open TCP ports on devices
@@ -35,7 +35,7 @@ Step 2: Perform a Basic TCP SYN Scan with Nmap
 Step 3: Save the Scan Results
 
            
-                 nmap -sS 192.168.1.0/24 -oA scan_results  
+          nmap -sS 192.168.1.0/24 -oA scan_results  
                  
 
    To save detailed results in multiple formats:
@@ -49,18 +49,18 @@ Step 3: Save the Scan Results
 Step 4: Analyze the Results
 
 
-      Open the saved files to review:
-      IP addresses of devices
-      Open ports
-      Services associated with each port
+       Open the saved files to review:
+       IP addresses of devices
+       Open ports
+       Services associated with each port
 
 
 Important Notes:
 
 
-     Always ensure you have permission to scan a network.
-     Use the results to understand potential security risks.
-     Close unnecessary open ports to improve security.
+       Always ensure you have permission to scan a network.
+       Use the results to understand potential security risks.
+       Close unnecessary open ports to improve security.
 
 Output:
 
