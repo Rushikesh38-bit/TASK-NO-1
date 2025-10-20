@@ -19,7 +19,6 @@ Step 1: Find Your IP Address and Network Range
   Note your IP address.
   Determine your network range (192.168.1.0/24).
   
-
   ![image alt](https://github.com/Rushikesh38-bit/TASK-NO-1/blob/main/Image%202025-10-20.jpg)
   
 
