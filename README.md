@@ -27,6 +27,7 @@ Step 3: Save the Scan Results
   To save detailed results in multiple formats:
 
             nmap -sS 192.168.1.0/24 -oA scan_results  
+            
             scan_results.nmap (normal output)
             scan_results.xml (XML format)
             scan_results.gnmap (grepable format)
