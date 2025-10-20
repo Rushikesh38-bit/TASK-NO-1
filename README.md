@@ -70,7 +70,7 @@ Important Notes:
 
 Single Port Scan:
 
-  ![image alt] (https://github.com/Rushikesh38-bit/TASK-NO-1/blob/main/Image%202025-10-20(4).jpg)
+  ![image alt](https://github.com/Rushikesh38-bit/TASK-NO-1/blob/main/Image%202025-10-20(4).jpg)
    
    3] Close unnecessary open ports to improve security.
 
