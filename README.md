@@ -51,14 +51,13 @@ Step 4: Analyze the Results
 
    Open the saved files to review:
    
-   IP addresses of devices
-   Open ports
+   IP addresses of devices,
+   Open ports,
    Services associated with each port
 
 
 Important Notes:
-
-
+ 
    1] Always ensure you have permission to scan a network.
    
    2] Use the results to understand potential security risks.
