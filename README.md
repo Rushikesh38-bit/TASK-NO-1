@@ -50,6 +50,7 @@ Step 4: Analyze the Results
 
 
    Open the saved files to review:
+   
    IP addresses of devices
    Open ports
    Services associated with each port
@@ -58,9 +59,11 @@ Step 4: Analyze the Results
 Important Notes:
 
 
-   Always ensure you have permission to scan a network.
-   Use the results to understand potential security risks.
-   Close unnecessary open ports to improve security.
+   1] Always ensure you have permission to scan a network.
+   
+   2] Use the results to understand potential security risks.
+   
+   3] Close unnecessary open ports to improve security.
 
 
 Output:
