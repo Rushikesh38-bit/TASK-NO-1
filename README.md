@@ -4,6 +4,8 @@ NETWORK RECONNAISSANCE WITH NMAP
 Overview:
 This repository documents a practical network reconnaissance task to identify open ports and services on devices within a local network using Nmap. It includes step-by-step instructions, sample commands, and space for your screenshots.
 
+Windows Method
+
 Step-by-Step Working:
 
 Step 1: Find Your IP Address and Network Range
@@ -12,9 +14,7 @@ Step 1: Find Your IP Address and Network Range
   Use the following commands:
 
 
-        Windows: ipconfig
-
-        Linux: ifconfig    
+        Windows: ipconfig   
     
   Note your IP address.
   Determine your network range (192.168.1.0/24).
@@ -84,5 +84,29 @@ Important Notes:
 
    
 
+Linux Method:
 
+Step 1: Find Your IP Address and Network Range
+
+     Linux: ifconfig 
+
+ Note your IP address and determine your network range (e.g., 192.168.1.0/24).
+
+ ![image alt]()
+
+Step 2: Perform a Basic TCP SYN Scan
+
+     nmap -sS 192.168.1.0/24
+
+ ![image alt]()     
+ ![image alt]()
+
+Step 3: Save and Analyze Results
+
+    nmap -sS 192.168.1.0/24 -oA scan_results
+    
+
+Step 4: Review Results
+
+    cat scan_results.nmap 
         
