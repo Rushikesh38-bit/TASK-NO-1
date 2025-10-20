@@ -18,8 +18,9 @@ Step 1: Find Your IP Address and Network Range
     
   Note your IP address.
   Determine your network range (192.168.1.0/24).
+  
 
-  ![image alt](https://github.com/Rushikesh38-bit/TASK-NO-1/blob/main/Image%202025-10-20.jpg)
+     ![image alt](https://github.com/Rushikesh38-bit/TASK-NO-1/blob/main/Image%202025-10-20.jpg)
   
 
 Step 2: Perform a Basic TCP SYN Scan with Nmap
@@ -32,6 +33,8 @@ Step 2: Perform a Basic TCP SYN Scan with Nmap
 
         
   This performs a stealth scan to identify open TCP ports on devices
+
+      ![image alt](![image alt]())
   
 
 Step 3: Save the Scan Results
