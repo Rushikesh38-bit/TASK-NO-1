@@ -92,13 +92,12 @@ Step 1: Find Your IP Address and Network Range
 
  Note your IP address and determine your network range (e.g., 192.168.1.0/24).
 
- ![image alt](https://github.com/Rushikesh38-bit/TASK-NO-1/blob/main/linux(1).jpg)
 
 Step 2: Perform a Basic TCP SYN Scan
 
      nmap -sS 192.168.1.0/24
 
- ![image alt]()     
+ ![image alt](https://github.com/Rushikesh38-bit/TASK-NO-1/blob/main/linux(1).jpg)     
  ![image alt]()
 
 Step 3: Save and Analyze Results
