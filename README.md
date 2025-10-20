@@ -48,7 +48,6 @@ Step 3: Save the Scan Results
 
 Step 4: Analyze the Results
 
-
    Open the saved files to review:
    
    IP addresses of devices,
