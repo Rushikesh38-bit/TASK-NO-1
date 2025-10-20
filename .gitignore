@@ -1,0 +1,14 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# nmap outputs (unless you want them tracked)
+*.gnmap
+*.xml
+recon-*.txt
+recon-*.gnmap
+recon-*.xml
+
+# IDEs
+.vscode/
+.idea/
