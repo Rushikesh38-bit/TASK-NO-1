@@ -49,18 +49,19 @@ Step 3: Save the Scan Results
 Step 4: Analyze the Results
 
 
-       Open the saved files to review:
-       IP addresses of devices
-       Open ports
-       Services associated with each port
+   Open the saved files to review:
+   IP addresses of devices
+   Open ports
+   Services associated with each port
 
 
 Important Notes:
 
 
-       Always ensure you have permission to scan a network.
-       Use the results to understand potential security risks.
-       Close unnecessary open ports to improve security.
+   Always ensure you have permission to scan a network.
+   Use the results to understand potential security risks.
+   Close unnecessary open ports to improve security.
+
 
 Output:
 
