@@ -8,29 +8,38 @@ Step-by-Step Working:
 
 Step 1: Find Your IP Address and Network Range
 
-    Open your terminal or command prompt.
-    Use the following command:
-    Windows: ipconfig
-    Linux: ifconfig
-    Note your IP address.
-    Determine your network range (192.168.1.0/24).
+  Open your terminal or command prompt.
+  Use the following commands:
+
+        Windows: ipconfig
+        Linux: ifconfig
+    
+  Note your IP address.
+  Determine your network range (192.168.1.0/24).
+  
 
 Step 2: Perform a Basic TCP SYN Scan with Nmap
+
   Open your terminal/command prompt
   Run the following command, replacing <your_network_range> with your network range:
-  
-            nmap -sS 192.168.1.0/24
+
+            Command:   
+                 nmap -sS 192.168.1.0/24
         
   This performs a stealth scan to identify open TCP ports on devices
+  
 
 Step 3: Save the Scan Results
-  To save detailed results in multiple formats:
 
-            nmap -sS 192.168.1.0/24 -oA scan_results  
-            
+            Command:     
+                 nmap -sS 192.168.1.0/24 -oA scan_results  
+
+   To save detailed results in multiple formats:
+   
             scan_results.nmap (normal output)
             scan_results.xml (XML format)
             scan_results.gnmap (grepable format)
+
 
 Step 4: Analyze the Results
 
